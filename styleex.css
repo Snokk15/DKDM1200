@@ -299,7 +299,7 @@ font-family: 'Cinzel', serif;
      }
 
 /* For bigger desktops: */
-@media only screen and (min-width: 2500px) {
+@media only screen and (min-width: 2000px) {
     
    
     .card{
@@ -317,6 +317,8 @@ font-family: 'Cinzel', serif;
     .bigscreen{
         max-width: 55% !important;
         margin: auto;
+    }
+       
     }
        
    }
